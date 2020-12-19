@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d08d3e4-1a1e-4087-892d-dcbd90a03409" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/StartOfPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_Task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_Task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_Task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_Task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2_Task_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608045389771</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Практические задания к уроку 2">
+      <created>1608310110478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608310110480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Файла проекта">
+      <created>1608310140169</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608310140169</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +217,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Изменил код в соответствии с замечаниями" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменил код в соответствии с замечаниями" />
+    <MESSAGE value="Практические задания к уроку 2" />
+    <MESSAGE value="Файла проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Файла проекта" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
