@@ -7,10 +7,14 @@
 def my_func(num_1, num_2, num_3):
     """возвращает сумму наибольших двух аргументов"""
 
-    a = max(num_1, num_2)
-    b = max(num_2, num_3)
-    c = a + b
-    return c
+    args = (num_1, num_2, num_3)
+    a = min(num_1, num_2, num_3)
+    b = sum(args) - a
+    return b
 
 
-print(my_func(6, 2, 10))
+print('\nВведите числа A B и C:\n')
+a = int(input('A: '))
+b = int(input('B: '))
+c = int(input('C: '))
+print(my_func(a, b, c))
