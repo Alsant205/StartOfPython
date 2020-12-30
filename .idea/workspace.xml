@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d08d3e4-1a1e-4087-892d-dcbd90a03409" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson_5/Lessons.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/company.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/company.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/eng_count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/salary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/text_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/text_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/text_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/text_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/text_77.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7d08d3e4-1a1e-4087-892d-dcbd90a03409" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
